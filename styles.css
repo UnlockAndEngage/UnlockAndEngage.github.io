@@ -20,6 +20,8 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+  padding-left: 2em;
+  padding-right: 2em;
 }
 #header a:hover {
   color: #222;
