@@ -69,6 +69,7 @@ a:hover {
 }
 .column {
   min-width: 300px;
+  padding-left: 2em;
   display: inline-block;
   vertical-align: top;
 }
