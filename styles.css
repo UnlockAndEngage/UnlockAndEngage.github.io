@@ -4,6 +4,10 @@
 @import "https://fonts.googleapis.com/css?family=Scope+One";
 
 
+html {
+  background: linear-gradient(#000000, #36454f);
+}
+
 
 body {
   color: #555;
