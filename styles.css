@@ -20,6 +20,8 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+  padding-left: 2em;
+  padding-right: 2em;
 }
 #header a:hover {
   color: #222;
@@ -76,9 +78,9 @@ a:hover {
   letter-spacing: 0.1em;
 }
 .post {
-  max-width: 800px;
+  max-width: 1000px;
   margin: 0 auto;
-  padding: 10px 20%;
+  padding: 10px 20px;
 }
 .post-name {
   color: white;
